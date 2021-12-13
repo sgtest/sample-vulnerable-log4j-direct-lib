@@ -7,7 +7,7 @@ public class Library {
 	private static final Logger logger = LogManager.getLogger("Library");
 	
     public boolean log(String[] args) {
-		logger.error("Args: {}", args);
+		logger.error("Args: {}", (Object[])(args));
 		return true;
     }
 }
