@@ -8,6 +8,6 @@ This library is used by https://github.com/sgtest/sample-vulnerable-log4j-indire
 
 The following repositories are used to demonstrate Sourcegraph functionality related to fixing [CVE-2021-44228](https://nvd.nist.gov/vuln/detail/CVE-2021-44228):
 
-- https://github.com/sourcegraph/sample-vulnerable-log4j-direct-app
-- https://github.com/sourcegraph/sample-vulnerable-log4j-direct-lib
-- https://github.com/sourcegraph/sample-vulnerable-log4j-indirect-app
+- https://github.com/sgtest/sample-vulnerable-log4j-direct-app
+- https://github.com/sgtest/sample-vulnerable-log4j-direct-lib
+- https://github.com/sgtest/sample-vulnerable-log4j-indirect-app
